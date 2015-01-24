@@ -14,7 +14,7 @@ development:
   database: db/development.sqlite3
 
 procution:
-  adapter:pg
+  adapter: pg
   database: db/production.pg
 
 # Warning: The database defined as "test" will be erased and
